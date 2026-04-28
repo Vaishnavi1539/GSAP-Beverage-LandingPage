@@ -4,7 +4,7 @@ A modern and cinematic beverage landing page built using **HTML, CSS, JavaScript
 This project showcases smooth animations, scroll-triggered transitions, and an engaging product display for beverage brands.
 
 ## 🚀 Live Preview
-
+https://vaishnavi1539.github.io/GSAP-Beverage-LandingPage/
 
 ## 📌 Features
 
